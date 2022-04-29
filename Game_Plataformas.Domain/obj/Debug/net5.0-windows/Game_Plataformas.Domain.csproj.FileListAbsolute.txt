@@ -1,0 +1,13 @@
+C:\Users\Edmilson da Hora\source\repos\Game_Plataformas\Game_Plataformas.Domain\bin\Debug\net5.0-windows\Game_Plataformas.Domain.deps.json
+C:\Users\Edmilson da Hora\source\repos\Game_Plataformas\Game_Plataformas.Domain\bin\Debug\net5.0-windows\Game_Plataformas.Domain.dll
+C:\Users\Edmilson da Hora\source\repos\Game_Plataformas\Game_Plataformas.Domain\bin\Debug\net5.0-windows\ref\Game_Plataformas.Domain.dll
+C:\Users\Edmilson da Hora\source\repos\Game_Plataformas\Game_Plataformas.Domain\bin\Debug\net5.0-windows\Game_Plataformas.Domain.pdb
+C:\Users\Edmilson da Hora\source\repos\Game_Plataformas\Game_Plataformas.Domain\obj\Debug\net5.0-windows\Game_Plataformas.Domain.Media.resources
+C:\Users\Edmilson da Hora\source\repos\Game_Plataformas\Game_Plataformas.Domain\obj\Debug\net5.0-windows\Game_Plataformas.Domain.csproj.GenerateResource.cache
+C:\Users\Edmilson da Hora\source\repos\Game_Plataformas\Game_Plataformas.Domain\obj\Debug\net5.0-windows\Game_Plataformas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edmilson da Hora\source\repos\Game_Plataformas\Game_Plataformas.Domain\obj\Debug\net5.0-windows\Game_Plataformas.Domain.AssemblyInfoInputs.cache
+C:\Users\Edmilson da Hora\source\repos\Game_Plataformas\Game_Plataformas.Domain\obj\Debug\net5.0-windows\Game_Plataformas.Domain.AssemblyInfo.cs
+C:\Users\Edmilson da Hora\source\repos\Game_Plataformas\Game_Plataformas.Domain\obj\Debug\net5.0-windows\Game_Plataformas.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Edmilson da Hora\source\repos\Game_Plataformas\Game_Plataformas.Domain\obj\Debug\net5.0-windows\Game_Plataformas.Domain.dll
+C:\Users\Edmilson da Hora\source\repos\Game_Plataformas\Game_Plataformas.Domain\obj\Debug\net5.0-windows\ref\Game_Plataformas.Domain.dll
+C:\Users\Edmilson da Hora\source\repos\Game_Plataformas\Game_Plataformas.Domain\obj\Debug\net5.0-windows\Game_Plataformas.Domain.pdb

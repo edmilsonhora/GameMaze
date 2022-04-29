@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Game_Plataformas.UI/1.0.0": {
+        "dependencies": {
+          "Game_Plataformas.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Game_Plataformas.UI.dll": {}
+        }
+      },
+      "Game_Plataformas.Domain/1.0.0": {
+        "runtime": {
+          "Game_Plataformas.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Game_Plataformas.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Game_Plataformas.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
